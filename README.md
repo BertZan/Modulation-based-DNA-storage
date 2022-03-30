@@ -12,7 +12,6 @@ The aim of the code is to recover the data stored on DNA sequences from millions
 
 ### List of contents
 [Setup and Installation](#Setup-and-Installation) <br>
-[Data dependencies](#Data-dependencies) <br>
 [Running the code and reproducing the results](#Running-the-code-and-reproducing-the-results) <br>
 [License](#License)
 
