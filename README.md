@@ -1,17 +1,20 @@
-# A super robust and efficient modulation-demodulation DNA storage method
+# A super robust and efficient DNA storage architecture based on modulation encoding and decoding 
 
 
 This repository provides code for reproducing the results in the paper:
 
-**``A super robust and efficient modulation-demodulation DNA storage method''**, by 
-Xiangzhen Zan, Wenbin Liu et.al. 
+**``A super robust and efficient DNA storage architecture based on modulation encoding and decoding ''**, by 
+Xiangzhen Zan, Ranze Xie,Xiangyu Yao,Peng Xu,Wenbin Liu 
 
 Code by: Xiangzhen Zan (xiangcheng2436@163.com)
+
+
 
 The aim of the code is to recover the data stored on DNA sequences from millions of noisy reads. The overall procedure comprises of i) indel detection of noise reads, ii)clustering the aligned reads and obataining the consensus sequences, iii) decoding the consensus sequences and recovering the data. Details about "setup and installation," is provided below.
 
 ### List of contents
 [Setup and Installation](#Setup-and-Installation) <br>
+[Data dependencies](#Data-dependencies) <br>
 [Running the code and reproducing the results](#Running-the-code-and-reproducing-the-results) <br>
 [License](#License)
 
@@ -42,3 +45,10 @@ This project is licensed under the GNU General Public License, version 3
 
   http://www.gnu.org/licenses/
 
+# Citation
+
+If you use our software, please cite:
+
+Zan, X., R. Xie, X. Yao, P. Xu, and W. Liu (2022) A super robust and efficient DNA storage architecture based on modulation encoding and decoding. bioRxiv. 2022.2005.2025.490755.
+
+https://www.biorxiv.org/content/10.1101/2022.05.25.490755v1
