@@ -51,4 +51,4 @@ If you use our software, please cite:
 
 Zan, X., R. Xie, X. Yao, P. Xu, and W. Liu (2022) A  robust and efficient DNA storage architecture based on modulation encoding and decoding. bioRxiv. 2022.2005.2025.490755.
 
-https://www.biorxiv.org/content/10.1101/2022.05.25.490755v1
+https://www.biorxiv.org/content/10.1101/2022.05.25.490755v2
