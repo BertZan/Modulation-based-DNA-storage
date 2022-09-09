@@ -1,9 +1,9 @@
-# A super robust and efficient DNA storage architecture based on modulation encoding and decoding 
+# A  robust and efficient DNA storage architecture based on modulation encoding and decoding 
 
 
 This repository provides code for reproducing the results in the paper:
 
-**``A super robust and efficient DNA storage architecture based on modulation encoding and decoding ''**, by 
+**``A  robust and efficient DNA storage architecture based on modulation encoding and decoding ''**, by 
 Xiangzhen Zan, Ranze Xie,Xiangyu Yao,Peng Xu,Wenbin Liu 
 
 Code by: Xiangzhen Zan (xiangcheng2436@163.com)
@@ -49,6 +49,6 @@ This project is licensed under the GNU General Public License, version 3
 
 If you use our software, please cite:
 
-Zan, X., R. Xie, X. Yao, P. Xu, and W. Liu (2022) A super robust and efficient DNA storage architecture based on modulation encoding and decoding. bioRxiv. 2022.2005.2025.490755.
+Zan, X., R. Xie, X. Yao, P. Xu, and W. Liu (2022) A  robust and efficient DNA storage architecture based on modulation encoding and decoding. bioRxiv. 2022.2005.2025.490755.
 
 https://www.biorxiv.org/content/10.1101/2022.05.25.490755v1
