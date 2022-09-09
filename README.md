@@ -27,7 +27,7 @@ The code has been tested on the following operating system:
 	Linux: Ubuntu 20.04.1 LTS
 
 ### Python dependencies
-To reproduce the results, run the jupyter notebook LSH_clustering.ipynb. To run this notebook, the following softwares are required. Assuming the experiment is being performed in a docker container or a linux machine, the following libraries and packages need to be installed.
+To reproduce the results, the following softwares are required. Assuming the experiment is being performed in a docker container or a linux machine, the following libraries and packages need to be installed.
         
         apt-get install python3.8       # --> or any other system-specific command for installing python3 on your system.		
 		pip install numpy
